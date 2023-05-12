@@ -1,0 +1,6 @@
+107500-39500=68000 microsec per 1kb
+main.c 744
+
+main.c 894
+
+flash.c 1367 3623
